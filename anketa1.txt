@@ -1,0 +1,7 @@
+Esimene nädala päev?:Esmaspäev
+Viimane kuu?:Veebruar
+Nädala viimane päev?:Pühapaev
+Eesti pealinn?:Tallinn
+Eesti suvelinn?:Pärnu
+Kuhu on jäänud meteoriidi jälg?:Saaremaal
+Jõuluküpsised Eestis?:Piparkook
